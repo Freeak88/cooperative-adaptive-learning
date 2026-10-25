@@ -3,7 +3,7 @@
 
 **An open, bilingual research protocol on compute-efficient cooperative multi-agent learning, adaptive peer teaching, continual learning, and resource allocation under hard budgets.**
 
-[**Español**](README.es.md) · [**Research protocol**](docs/RESEARCH_PROTOCOL.md) · [**Related work**](docs/RELATED_WORK.md) · [**Collaboration invitation**](docs/COLLABORATE.md)
+[**Español**](README.es.md) · [**Spanish academic brief**](docs/PROYECTO_INVESTIGACION.es.md) · [**Research protocol**](docs/RESEARCH_PROTOCOL.md) · [**Related work**](docs/RELATED_WORK.md) · [**Collaboration invitation**](docs/COLLABORATE.md)
 
 > **Status: early research proposal — v0.1, October 24, 2026.** No algorithmic advantage, benchmark result, peer-reviewed publication or institutional affiliation is claimed. We are actively seeking critique of novelty and experimental design.
 
