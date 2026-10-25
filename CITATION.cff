@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If this open research protocol helps your work, cite this repository and its exact version or commit."
+type: generic
+title: "Cooperative Adaptive Learning: An Open Research Protocol for Compute-Efficient Mutual Aid Among AI Agents"
+abstract: "Draft bilingual research protocol on resource-constrained cooperative multi-agent learning, peer teaching, continual learning, skill retention, and adaptive support allocation. No experimental results or established algorithm are claimed."
+authors:
+  - name: "Freeak88"
+repository-code: "https://github.com/Freeak88/cooperative-adaptive-learning"
+url: "https://github.com/Freeak88/cooperative-adaptive-learning"
+license: MIT
+keywords:
+  - cooperative multi-agent learning
+  - mutual aid
+  - resource-constrained AI
+  - continual learning
+  - peer teaching
+  - meta-learning
+  - collective intelligence
+  - Latin America
+date-released: 2026-10-24
