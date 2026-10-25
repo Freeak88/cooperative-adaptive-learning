@@ -2,7 +2,7 @@
 
 **Investigación abierta sobre IA multiagente que aprende con menos recursos mediante apoyo mutuo, enseñanza entre pares, aprendizaje continuo y asignación adaptativa del cómputo.**
 
-[Read in English](README.md) · [Protocolo científico](docs/RESEARCH_PROTOCOL.md) · [Antecedentes](docs/RELATED_WORK.md) · [Convocatoria](docs/COLLABORATE.md)
+[Read in English](README.md) · [Propuesta académica completa](docs/PROYECTO_INVESTIGACION.es.md) · [Protocolo científico](docs/RESEARCH_PROTOCOL.md) · [Antecedentes](docs/RELATED_WORK.md) · [Convocatoria](docs/COLLABORATE.md)
 
 > **Estado: propuesta científica v0.1 (24 de octubre de 2026).** El método no está implementado ni validado. El repositorio no presenta resultados experimentales ni afirma originalidad demostrada.
 
